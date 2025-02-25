@@ -322,6 +322,8 @@ Chat Analyzer is an advanced NLP-based tool designed to analyze WhatsApp chat da
     - Passionate about **AI, NLP, and real-world problem-solving through technology**.
 
     With its combination of **AI-driven analytics** and **user-friendly implementation**, Chat Analyzer stands out as a powerful tool for chat analysis, offering meaningful insights for individuals, communities, and researchers alike.
+    
+    NOTE:- THE MODEL IS DESIGNED TO WORK ON BOTH 24 HOUR FORMAT CHAT AND 12 HOUR FORMAT(AM\PM) BUT IT IS ADVISED TO USE AM\PM ON THE PRIOR BASIS
     """
 )
 
